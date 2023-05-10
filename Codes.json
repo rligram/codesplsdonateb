@@ -9,10 +9,10 @@
 }
 {
 
-"zennux": {
+"PDBUPDATE": {
     "Active": true,
-    "RewardType": "Booth",
-    "RewardValue": "RocketBooth"
+    "RewardType": "Robux",
+    "RewardValue": "10000000"
 }
 
 }
