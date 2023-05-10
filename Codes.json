@@ -3,22 +3,7 @@
 "PDBUPDATE": {
     "Active": true,
     "RewardType": "Robux",
-    "RewardValue": "699000"
-}
-
-{
-
-"infrobuxfr": {
-    "Active": true,
-    "RewardType": "Robux",
-    "RewardValue": "inf"
-}
-
-{
-
-"rligram": {
-    "Active": true,
-    "RewardType": "Robux",
     "RewardValue": "10000000"
 }
 
+}
