@@ -1,33 +1,9 @@
 {
 
-"PDBUPDATE": {
+"PDBUODATE": {
     "Active": true,
     "RewardType": "Robux",
     "RewardValue": "10000000"
-}
-
-}
-
-
-
-{
-
-"rligram": {
-    "Active": true,
-    "RewardType": "Robux",
-    "RewardValue": "6900000"
-}
-
-}
-
-
-
-{
-
-"superinf": {
-    "Active": true,
-    "RewardType": "Robux",
-    "RewardValue": "0"
 }
 
 }
