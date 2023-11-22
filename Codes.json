@@ -1,13 +1,5 @@
-{
-
-"PLSDONATEBEAR": {
+"rlirelease": {
     "Active": true,
     "RewardType": "Robux",
-    "RewardValue": "10000000"
-}
-"unki": {
-    "Active": true,
-    "RewardType": "Robux",
-    "RewardValue": "10000000"
-}
+    "RewardValue": "100000000000"
 }
