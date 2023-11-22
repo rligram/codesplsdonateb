@@ -1,5 +1,9 @@
-"rlirelease": {
+{
+
+"secret": {
     "Active": true,
     "RewardType": "Robux",
-    "RewardValue": "100000000000"
+    "RewardValue": "100000070"
+}
+
 }
