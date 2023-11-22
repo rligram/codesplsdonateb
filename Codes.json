@@ -1,9 +1,13 @@
 {
 
-"PDBUPDATE": {
+"PLSDONATEBEAR": {
     "Active": true,
     "RewardType": "Robux",
     "RewardValue": "10000000"
 }
-
+"unki": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "10000000"
+}
 }
